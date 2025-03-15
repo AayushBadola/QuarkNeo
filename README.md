@@ -53,29 +53,29 @@ gcc -o myprogram myprogram.c -lquark
 ## API Reference
 ### Input Functions
 
-char get_char(const char *prompt) - Get a single character from user
+* char get_char(const char *prompt) - Get a single character from user
 
-double get_double(const char *prompt) - Get a double from user
+* double get_double(const char *prompt) - Get a double from user
 
-float get_float(const char *prompt) - Get a float from user
+* float get_float(const char *prompt) - Get a float from user
 
-int get_int(const char *prompt) - Get an integer from user
+* int get_int(const char *prompt) - Get an integer from user
 
-long get_long(const char *prompt) - Get a long integer from user
+* long get_long(const char *prompt) - Get a long integer from user
 
-string get_string(const char *prompt) - Get a string from user
+* string get_string(const char *prompt) - Get a string from user
 
 ## Output Functions
-void print_red(const char *format, ...) - Print text in red
+* void print_red(const char *format, ...) - Print text in red
 
-void print_green(const char *format, ...) - Print text in green
+* void print_green(const char *format, ...) - Print text in green
 
-void print_yellow(const char *format, ...) - Print text in yellow
+* void print_yellow(const char *format, ...) - Print text in yellow
 
-void print_blue(const char *format, ...) - Print text in blue
+* void print_blue(const char *format, ...) - Print text in blue
 
 ## Error Handling
-void error(const char *format, ...) - Print an error message and exit
+* void error(const char *format, ...) - Print an error message and exit
 
 ## Example
 ```
@@ -104,15 +104,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-Fork the repository
+* Fork the repository
 
-Create your feature branch: git checkout -b feature/amazing-feature
+* Create your feature branch: git checkout -b feature/amazing-feature
 
-Commit your changes: git commit -m 'Add some amazing feature'
+* Commit your changes: git commit -m 'Add some amazing feature'
 
-Push to the branch: git push origin feature/amazing-feature
+* Push to the branch: git push origin feature/amazing-feature
 
-Open a Pull Request
+* Open a Pull Request
 
 # Acknowledgments
 Inspired by Harvard's CS50 library, but completely reimplemented
