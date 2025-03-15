@@ -4,7 +4,7 @@
 
 Author: Aayush Badola
 
-Version: Alpha 0.0.1
+Version: Alpha 1.0.0
 
 Language: C programming
 
