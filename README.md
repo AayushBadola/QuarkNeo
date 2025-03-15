@@ -28,7 +28,7 @@ The QuarkNeo Library is a simplified C library designed for educational purposes
 
 ```
 git clone https://github.com/AayushBadola/QuarkNeo.git
-cd quarkneo
+cd QuarkNeo
 make
 ```
 
