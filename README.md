@@ -13,8 +13,8 @@ Language: C programming
 </div>
 
 ## Recent Update
-### Make Sure to Update the Library so You are using the Latest Version
-
+### Note: Make Sure to Update the Library so You are using the Latest Version
+Key Fixes : 
 * Updated the Header and Source File to more Efficiently Use INT_MAX and INT_MIN functions by introducing Limits File 
 * Fixed the Lagging Issue caused due to several Un-written Functions.
 * Changed Error outputs for Better Explainability.
