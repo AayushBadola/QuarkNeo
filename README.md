@@ -15,7 +15,7 @@ Language: C programming
 ## Recent Update
 ### Make Sure to Update the Library so You are using the Latest Version
 
-* Updated the Headed and Source File to more Efficiently Use INT_MAX and INT_MIN functions.
+* Updated the Header and Source File to more Efficiently Use INT_MAX and INT_MIN functions by introducing Limits File 
 * Fixed the Lagging Issue caused due to several Un-written Functions.
 * Changed Error outputs for Better Explainability.
 * Fixed Printing out the promt.
