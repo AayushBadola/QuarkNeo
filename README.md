@@ -12,6 +12,14 @@ Language: C programming
 
 </div>
 
+## Recent Update
+### Make Sure to Update the Library so You are using the Latest Version
+
+* Updated the Headed and Source File to more Efficiently Use INT_MAX and INT_MIN functions.
+* Fixed the Lagging Issue caused due to several Un-written Functions.
+* Changed Error outputs for Better Explainability.
+* Fixed Printing out the promt.
+
 ## QuarkNeo Library
 
 The QuarkNeo Library is a simplified C library designed for educational purposes, inspired by Harvard's CS50 library but completely reimplemented. It provides intuitive functions for common operations in C programming, making it easier for beginners to learn and write C code.
