@@ -1,8 +1,8 @@
 <div align="center">
 
-# QuarkNeo
+# QuarkNeo - <b>By AAYUSH BADOLA</b>
 
-<h5>Author:</h5><b>Aayush Badola<b>
+
 
 Version: Alpha 1.0.1
 
