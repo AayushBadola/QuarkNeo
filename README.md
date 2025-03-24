@@ -2,7 +2,7 @@
 
 # QuarkNeo
 
-Author: Aayush Badola
+<h5>Author:</h5><b>Aayush Badola<b>
 
 Version: Alpha 1.0.1
 
